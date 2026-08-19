@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | Hello My name is Faizury Briyith Vera Santofimio, I am a student of Técnico Profesional en Programación Web at UniEspinal, I am learning about web development and technology, and I am interested in creating useful and creative web projects and this is my introductory URL https://faizury22.github.io/web-profile/|
-| About | Two or three sentences about you |
+| About | I live in El Espinal Tolima, I am a student at UniEspinal, and in my free time I like going to the gym, cooking, and playing volleyball, I enjoy learning new things and spending time doing the activities I love.  |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
