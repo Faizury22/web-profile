@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Hello My name is Faizury Briyith Vera Santofimio, I am a student of Técnico Profesional en Programación Web at UniEspinal, I am learning about web development and technology, and I am interested in creating useful and creative web projects and this is my introductory URL https://faizury22.github.io/web-profile/|
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
