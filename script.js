@@ -1,3 +1,4 @@
+
 /* ============================================================
    WEB PROFILE TEMPLATE - SCRIPT
    UniEspinal · Técnico Profesional en Programación Web
@@ -27,7 +28,7 @@ const ES = {
   "hero.role": "Estudiante de Programación Web",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "Soy estudiante de Técnico Profesional en Programación Web en UniEspinal y estoy fortaleciendo mis conocimientos en desarrollo de aplicaciones web. Me interesa crear soluciones útiles y funcionales; actualmente trabajo en AgroSense, un proyecto académico orientado al monitoreo de la humedad del suelo para apoyar el cuidado de los cultivos.",
+  "about.text":           "Soy estudiante de Técnico Profesional en Programación Web en UniEspinal. Me interesa el desarrollo de aplicaciones web, la programación y las bases de datos. Actualmente trabajo en AgroSense, mi proyecto académico, una plataforma web orientada a la gestión de información de cultivos y al monitoreo de la humedad del suelo.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Espinal, Tolima, Colombia",
@@ -35,46 +36,50 @@ const ES = {
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés (A2)",
   "about.labelStatus":    "Disponibilidad",
-  "about.valueStatus":    "Estudiante; abierta a oportunidades de aprendizaje",
+  "about.valueStatus":    "En formación académica",
   "about.interestsTitle": "Intereses",
 
   "interest.1": "PROGRAMACIÓN",
   "interest.2": "DESARROLLO WEB",
-  "interest.3": "TECNOLOGÍA",
+  "interest.3": "BASES DE DATOS",
   "interest.4": "AGRICULTURA DIGITAL",
 
   "skills.title":        "Habilidades",
   "skills.technical":    "Habilidades técnicas",
   "skills.professional": "Habilidades profesionales",
-  "skill.support":       "Aprendizaje y colaboración",
+  "skill.support":       "Aprendizaje continuo",
   "skill.teamwork":      "Trabajo en equipo",
   "skill.problem":       "Resolución de problemas",
-  "skill.english":       "Inglés técnico",
+  "skill.english":       "Inglés básico",
 
   "resume.title":      "Formación y experiencia",
   "resume.education":  "Formación",
   "resume.experience": "Experiencia académica",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "Estudio fundamentos de programación y desarrollo web. En mis actividades académicas practico la creación de aplicaciones, el uso de herramientas de desarrollo y la organización de proyectos.",
-  "edu.2.title": "Formación práctica en desarrollo web",
-  "edu.2.text":  "Continúo fortaleciendo mis conocimientos mediante ejercicios y proyectos académicos, especialmente en tecnologías para construir aplicaciones web.",
+  "edu.1.text":  "Actualmente curso este programa en UniEspinal. Mi formación incluye el aprendizaje de programación, desarrollo web, bases de datos y herramientas para crear aplicaciones.",
 
-  "exp.1.title": "Desarrollo de AgroSense",
-  "exp.1.text":  "Trabajo en un proyecto académico para desarrollar una plataforma que permita consultar información de cultivos y monitorear la humedad del suelo. La propuesta contempla sensores, almacenamiento de mediciones, gráficas históricas y alertas.",
-  "exp.2.title": "Práctica de herramientas web",
-  "exp.2.text":  "Como parte de mi aprendizaje, practico el uso de Laravel, PHP, bases de datos y herramientas de desarrollo para comprender cómo se construye y organiza una aplicación web.",
+  "edu.2.title": "Aprendizaje práctico en programación",
+  "edu.2.text":  "Refuerzo los conocimientos adquiridos en mi formación mediante ejercicios y prácticas académicas de desarrollo web. Esta descripción corresponde a mi proceso de aprendizaje, no a una certificación adicional.",
 
-  "portfolio.title": "Proyecto académico",
+  "exp.1.title": "Desarrollo del proyecto AgroSense",
+  "exp.1.text":  "Desarrollo un proyecto académico que busca facilitar la consulta de información de cultivos y el monitoreo de la humedad del suelo mediante sensores. La propuesta contempla el almacenamiento de mediciones, gráficas históricas y alertas sobre los niveles de humedad.",
+
+  "exp.2.title": "Aprendizaje aplicado a AgroSense",
+  "exp.2.text":  "En este mismo proyecto aplico y fortalezco mis conocimientos de desarrollo web, programación y bases de datos. AgroSense es mi proyecto académico principal; no se trata de una experiencia laboral independiente.",
+
+  "portfolio.title": "Mi proyecto académico",
   "project.1.title": "AgroSense",
-  "project.1.text":  "Plataforma web en desarrollo · Laravel, PHP y base de datos",
-  "project.2.title": "AgroSense: monitoreo del suelo",
-  "project.2.text":  "Propuesta de seguimiento de humedad, historial de mediciones y alertas para el cuidado de los cultivos",
-  "project.3.title": "AgroSense: gestión de información",
-  "project.3.text":  "Diseño de una plataforma para consultar información relacionada con los cultivos",
+  "project.1.text":  "Plataforma web en desarrollo para gestionar información de cultivos y consultar el estado de la humedad del suelo.",
+
+  "project.2.title": "Monitoreo de humedad del suelo",
+  "project.2.text":  "Funcionalidad propuesta dentro de AgroSense para registrar mediciones de sensores y facilitar el seguimiento de los niveles de humedad.",
+
+  "project.3.title": "Historial y alertas",
+  "project.3.text":  "Funcionalidades contempladas en AgroSense para consultar mediciones anteriores mediante gráficas y recibir alertas cuando la humedad sea demasiado baja o alta.",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "¿Te interesa conocer mi proceso de aprendizaje o mi proyecto AgroSense? Puedes escribirme por correo.",
+  "contact.intro":         "Si deseas conocer más sobre mi formación en programación web o sobre AgroSense, puedes contactarme por correo electrónico.",
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "Perfil de LinkedIn no disponible",
 
@@ -92,7 +97,7 @@ const ES = {
    ------------------------------------------------------------ */
 const EN = {
   "nav.home":      "HOME",
-  "nav.about":     "ABOUT",
+  "nav.about":     "ABOUT ME",
   "nav.skills":    "SKILLS",
   "nav.resume":    "EDUCATION",
   "nav.portfolio": "PROJECT",
@@ -101,7 +106,7 @@ const EN = {
   "hero.role": "Web Programming Student",
 
   "about.title":          "About Me",
-  "about.text":           "I am studying for a Professional Technician qualification in Web Programming at UniEspinal and building my skills in web application development. I am interested in creating useful, functional solutions. I am currently working on AgroSense, an academic project focused on soil-moisture monitoring to support crop care.",
+  "about.text":           "I am studying for a Professional Technician qualification in Web Programming at UniEspinal. I am interested in web application development, programming, and databases. I am currently working on AgroSense, my academic project: a web platform focused on crop information management and soil-moisture monitoring.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Espinal, Tolima, Colombia",
@@ -109,46 +114,50 @@ const EN = {
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English (A2)",
   "about.labelStatus":    "Availability",
-  "about.valueStatus":    "Student; open to learning opportunities",
+  "about.valueStatus":    "Currently studying",
   "about.interestsTitle": "Interests",
 
   "interest.1": "PROGRAMMING",
   "interest.2": "WEB DEVELOPMENT",
-  "interest.3": "TECHNOLOGY",
+  "interest.3": "DATABASES",
   "interest.4": "DIGITAL AGRICULTURE",
 
   "skills.title":        "Skills",
   "skills.technical":    "Technical skills",
   "skills.professional": "Professional skills",
-  "skill.support":       "Learning and collaboration",
+  "skill.support":       "Continuous learning",
   "skill.teamwork":      "Teamwork",
   "skill.problem":       "Problem solving",
-  "skill.english":       "Technical English",
+  "skill.english":       "Basic English",
 
-  "resume.title":      "Education and academic experience",
+  "resume.title":      "Education and experience",
   "resume.education":  "Education",
   "resume.experience": "Academic experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "I study programming fundamentals and web development. Through academic work, I practise building applications, using development tools, and organizing projects.",
-  "edu.2.title": "Practical web development learning",
-  "edu.2.text":  "I continue developing my skills through exercises and academic projects, particularly with technologies used to build web applications.",
+  "edu.1.text":  "I am currently studying this programme at UniEspinal. My education includes programming, web development, databases, and tools for building applications.",
 
-  "exp.1.title": "AgroSense development",
-  "exp.1.text":  "I am working on an academic project for a platform that provides crop information and monitors soil moisture. The proposal includes sensors, measurement storage, historical charts, and alerts.",
-  "exp.2.title": "Web development practice",
-  "exp.2.text":  "As part of my learning, I practise using Laravel, PHP, databases, and development tools to understand how web applications are built and organized.",
+  "edu.2.title": "Practical programming learning",
+  "edu.2.text":  "I reinforce what I learn through academic exercises and web development practice. This describes my learning process, not an additional certification.",
 
-  "portfolio.title": "Academic project",
+  "exp.1.title": "AgroSense project development",
+  "exp.1.text":  "I am developing an academic project intended to make crop information available and monitor soil moisture using sensors. The proposal includes storing measurements, displaying historical charts, and providing alerts about moisture levels.",
+
+  "exp.2.title": "Learning applied to AgroSense",
+  "exp.2.text":  "Through this same project, I apply and strengthen my knowledge of web development, programming, and databases. AgroSense is my main academic project, not a separate work experience.",
+
+  "portfolio.title": "My academic project",
   "project.1.title": "AgroSense",
-  "project.1.text":  "Web platform in development · Laravel, PHP, and database",
-  "project.2.title": "AgroSense: soil monitoring",
-  "project.2.text":  "Proposed soil-moisture tracking, measurement history, and alerts to support crop care",
-  "project.3.title": "AgroSense: information management",
-  "project.3.text":  "Platform design for viewing crop-related information",
+  "project.1.text":  "Web platform in development for managing crop information and checking soil-moisture conditions.",
+
+  "project.2.title": "Soil-moisture monitoring",
+  "project.2.text":  "A proposed AgroSense feature for recording sensor measurements and tracking soil-moisture levels.",
+
+  "project.3.title": "History and alerts",
+  "project.3.text":  "Planned AgroSense features for reviewing previous measurements through charts and receiving alerts when moisture levels are too low or too high.",
 
   "contact.title":         "Contact",
-  "contact.intro":         "Would you like to learn about my work or my AgroSense project? You can contact me by email.",
+  "contact.intro":         "To learn more about my web programming studies or AgroSense, you can contact me by email.",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "LinkedIn profile not available",
 
